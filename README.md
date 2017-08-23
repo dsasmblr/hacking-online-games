@@ -1,7 +1,7 @@
 # [The Ultimate Online Game Hacking Resource](https://github.com/dsasmblr/hacking-online-games/)
 **A curated list of tutorials/resources for hacking online games!**
 
-From dissecting game clients to cracking network packet encryption, this is a go-to reference for those interested in the topic of hacking online games. I'll be updating this list whenever I run across excellent resources, so be sure to star it! If you know of an excellent resource that isn't yet on the list, feel free to [email it to me](mailto:dsasmblr@gmail.com) for consideration.
+From dissecting game clients to cracking network packet encryption, this is a go-to reference for those interested in the topic of hacking online games. I'll be updating this list whenever I run across excellent resources, so be sure to Watch/Star it! If you know of an excellent resource that isn't yet on the list, feel free to [email it to me](mailto:dsasmblr@gmail.com) for consideration.
 
 ### Blog Posts, Articles, and Presentations
 
@@ -43,3 +43,4 @@ Title/Link | Description
 [UnKnoWnCheaTs Forum](https://unknowncheats.me/) | Discussion of multiplayer game hacks and cheats.
 [MPGH (Multi-Player Game Hacking) Forum](http://www.mpgh.net) | Discussion of multiplayer game hacks and cheats.
 [ElitePVPers](https://www.elitepvpers.com/) | Discussion of MMO hacks, bots, cheats, guides and more.
+[OwnedCore](http://www.ownedcore.com/) | An MMO gaming community for guides, exploits, trading, hacks, model editing, emulation servers, programs, bots and more.
