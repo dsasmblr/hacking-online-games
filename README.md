@@ -49,7 +49,7 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
-[Pwn Adventure 3: Pwnie Island](http://pwnadventure.com/) | A first-person, open-world MMORPG developed specifically to be hacked!
+[Pwn Adventure 3: Pwnie Island](http://pwnadventure.com/) | A first-person, open-world MMORPG developed specifically to be hacked! You might also be interested in [Pwn Adventure 2](http://ghostintheshellcode.com/#pwnadventure2), which is Unity-based.
 [Minetest](http://www.minetest.net/) | An open source, multiplayer voxel-based game and game engine. (A Minecraft clone, basically.)
 [Xonotic](http://www.xonotic.org/) | An open source, arena-style multiplayer FPS.
 [Nexuiz](http://www.alientrap.com/games/nexuiz/) | The open source, multiplayer FPS game Xonotic is based on.
