@@ -30,9 +30,9 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
-[Game Hacking](https://www.nostarch.com/gamehacking) | Game Hacking shows programmers how to dissect computer games and create bots.
-[Attacking Network Protocols](https://www.nostarch.com/networkprotocols) | Attacking Network Protocols is a deep-dive into network vulnerability discovery.
-[Practical Packet Analysis, 3rd Edition](https://www.nostarch.com/packetanalysis3) | Practical Packet Analysis, 3rd Ed. teaches you how to use Wireshark for packet capture and analysis.
+[Game Hacking](https://www.nostarch.com/gamehacking) | *Game Hacking* shows programmers how to dissect computer games and create bots.
+[Attacking Network Protocols](https://www.nostarch.com/networkprotocols) | *Attacking Network Protocols* is a deep-dive into network vulnerability discovery.
+[Practical Packet Analysis, 3rd Edition](https://www.nostarch.com/packetanalysis3) | *Practical Packet Analysis, 3rd Ed.* teaches you how to use Wireshark for packet capture and analysis.
 [Exploiting Online Games: Cheating Massively Distributed Systems](https://www.amazon.com/Exploiting-Online-Games-Massively-Distributed/dp/0132271915/) | This book takes a close look at security problems associated with advanced, massively distributed software in relation to video games.
 
 ### Online Game Hacking Forums
