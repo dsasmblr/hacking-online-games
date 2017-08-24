@@ -9,7 +9,7 @@ Title/Link | Description
 ---- | ----
 [KeyIdentity's Pwn Adventure 3 Blog Series](https://blog.keyidentity.com/tag/pwnadventure/?order=asc) | A series of blog posts detailing various approaches to hacking [Pwn Adventure 3](http://pwnadventure.com/).
 [How to Hack an MMO](https://www.raphkoster.com/2008/04/17/how-to-hack-an-mmo/) | An article from 2014 providing general insight into hacking an online game.
-[Reverse Engineering Online Games - Dragomon Hunter](http://0xbaadf00dsec.blogspot.com/2016/01/reverse-engineering-online-games.html) | An in-depth tutorial showing how to reverse engineer online games via the game Dragomon Hunter.
+[Reverse Engineering Online Games - Dragomon Hunter](http://0xbaadf00dsec.blogspot.com/2016/01/reverse-engineering-online-games.html) | An in-depth tutorial showing how to reverse engineer online games via the game *Dragomon Hunter*.
 [Hacking/Exploiting/Cheating in Online Games (PDF)](https://zdresearch.com/wp-content/uploads/2013/04/Exploiting-Online-Games.pdf) | A presentation from 2013 that delves deeply into hacking online games, from defining terminology to providing code examples of specific hacks.
 [Hacking Online Games](https://www2.cs.arizona.edu/~collberg/Teaching/466-566/2012/Resources/presentations/2012/topic4-final/slides.pdf) | A presentation from 2012 discussing various aspects of hacking online games.
 [For 20 Years, This Man Has Survived Entirely by Hacking Online Games](https://motherboard.vice.com/en_us/article/59p7qd/this-man-has-survived-by-hacking-mmo-online-games) | A hacker says he turned finding and exploiting flaws in popular MMO video games into a lucrative, full-time, job.
