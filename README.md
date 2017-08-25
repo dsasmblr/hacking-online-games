@@ -1,7 +1,7 @@
 # [The Ultimate Online Game Hacking Resource](https://github.com/dsasmblr/hacking-online-games/)
 **A curated list of tutorials/resources for hacking online games!**
 
-From dissecting game clients to cracking network packet encryption, this is a go-to reference for those interested in the topic of hacking online games. I'll be updating this list whenever I run across excellent resources, so be sure to Watch/Star it! If you know of an excellent resource that isn't yet on the list, feel free to [email it to me](mailto:dsasmblr@gmail.com) for consideration.
+From dissecting game clients to cracking network packet encryption, this is a go-to reference for those interested in the topic of hacking online games. I'll be updating this list whenever I run across excellent resources, so be sure to Watch/Star it! If you know of an excellent resource that isn't yet on the list, feel free to submit it for consideration via creating an issue or pull request for this repository, or [email it to me](mailto:dsasmblr@gmail.com).
 
 ### Blog Posts, Articles, and Presentations
 
@@ -17,6 +17,8 @@ Title/Link | Description
 [Reverse Engineering Network Protocols](https://www.reddit.com/r/ReverseEngineering/comments/yru6p/reverse_engineering_network_protocols/c5yijpt/?st=j6p93sze&sh=c88f98eb) | A very helpful comment from a Reddit post inquiring about reversing network protocols.
 [Deciphering MMORPG Protocol Encoding](https://stackoverflow.com/questions/539812/deciphering-mmorpg-protocol-encoding) | An informative discussion from a question on Stack Overflow.
 [Reverse Engineering of a Packet Encryption Function of a Game](https://reverseengineering.stackexchange.com/questions/8816/reverse-engineering-of-a-packet-encryption-function-of-a-game) | An informative discussion from a question on StackExchange.
+[Fuzzing Online Games](https://www.elie.net/static/files/fuzzing-online-games/fuzzing-online-games-slides.pdf) | This is the slide deck used for the DEFCON 20 talk linked in the videos section below. [Click here](https://www.elie.net/talk/fuzzing-online-games) for the main presentation page.
+[Kartograph (Game Hacking Tool)](https://www.elie.net/static/files/kartograph/kartograph-slides.pdf) | This is the slide deck used for the DEFCON 18 talk linked in the videos section below. [Click here](https://www.elie.net/talk/kartograph) for the main presentation page, and [click here](https://www.elie.net/static/files/openconflict-preventing-real-time-map-hacks-in-online-games/openconflict-preventing-real-time-map-hacks-in-online-games-slides.pdf) for an extended version of this slide deck.
 
 ### Videos
 
@@ -24,7 +26,10 @@ Title/Link | Description
 ---- | ----
 [How to Hack Local Values in Browser-Based Games with Cheat Engine](https://www.youtube.com/watch?v=f_axmYpG1Lk) | This video teaches you how to find and change local values (which might appear as server-based values) in browser-based games.
 [Reverse-Engineering a Proprietary Game Server with Erlang](https://www.youtube.com/watch?v=DumXgoFrMdU) | This talk details advantages Erlang has over other languages for reverse engineering protocols and analyzing client files. A live demo showcasing some of these tools and techniques is also given.
-[DEFCON 19: Hacking MMORPGs for Fun and Mostly Profit](https://www.youtube.com/watch?v=hABj_mrP-no) | This talk presents a pragmatic view of both threats and defenses in relating to hacking online games.
+[DEFCON 17: Subverting the World Of Warcraft API](https://www.youtube.com/watch?v=EnmoI2dRwX4) | This talk discusses MMO hacks related to the World of Warcraft API.
+[DEFCON 18: Kartograph - Applying Reverse Engineering Techniques to Map Hacking](https://www.youtube.com/watch?v=WDNY4DMx8Jc) | Using games like Civilization IV, Age of Empires III, and Anno as targets, this talk teaches memory forensic techniques you can use to hack online games. Be sure to watch the accompanying [Kartograph demo video](https://www.youtube.com/watch?v=mFprkIAeKgM).
+[DEFCON 19: Hacking MMORPGs for Fun and Mostly Profit](https://www.youtube.com/watch?v=hABj_mrP-no) | This talk presents a pragmatic view of both threats and defenses in relation to hacking online games.
+[DEFCON 20: Fuzzing Online Games](https://www.youtube.com/watch?v=r0UQ6bpKOX0) | This talk discusses interesting techniques you can consider using to fuzz online games.
 
 ### Books
 
@@ -45,7 +50,7 @@ Title/Link | Description
 [ElitePVPers](https://www.elitepvpers.com/) | Discussion of MMO hacks, bots, cheats, guides and more.
 [OwnedCore](http://www.ownedcore.com/) | An MMO gaming community for guides, exploits, trading, hacks, model editing, emulation servers, programs, bots and more.
 
-### Open Source and Legal-to-Hack Multiplayer Games
+### Open Source and Safe-to-Hack Multiplayer Games
 
 Title/Link | Description
 ---- | ----
