@@ -7,7 +7,6 @@ From dissecting game clients to cracking network packet encryption, this is a go
 
 Title/Link | Description
 ---- | ----
-[KeyIdentity's Pwn Adventure 3 Blog Series](https://blog.keyidentity.com/tag/pwnadventure/?order=asc) | A series of blog posts detailing various approaches to hacking [Pwn Adventure 3](http://pwnadventure.com/).
 [How to Hack an MMO](https://www.raphkoster.com/2008/04/17/how-to-hack-an-mmo/) | An article from 2014 providing general insight into hacking an online game.
 [Reverse Engineering Online Games - Dragomon Hunter](http://0xbaadf00dsec.blogspot.com/2016/01/reverse-engineering-online-games.html) | An in-depth tutorial showing how to reverse engineer online games via the game *Dragomon Hunter*.
 [Hacking/Exploiting/Cheating in Online Games (PDF)](https://zdresearch.com/wp-content/uploads/2013/04/Exploiting-Online-Games.pdf) | A presentation from 2013 that delves deeply into hacking online games, from defining terminology to providing code examples of specific hacks.
@@ -19,6 +18,7 @@ Title/Link | Description
 [Reverse Engineering of a Packet Encryption Function of a Game](https://reverseengineering.stackexchange.com/questions/8816/reverse-engineering-of-a-packet-encryption-function-of-a-game) | An informative discussion from a question on StackExchange.
 [Fuzzing Online Games](https://www.elie.net/static/files/fuzzing-online-games/fuzzing-online-games-slides.pdf) | This is the slide deck used for the DEFCON 20 talk linked in the videos section below. [Click here](https://www.elie.net/talk/fuzzing-online-games) for the main presentation page.
 [Kartograph (Game Hacking Tool)](https://www.elie.net/static/files/kartograph/kartograph-slides.pdf) | This is the slide deck used for the DEFCON 18 talk linked in the videos section below. [Click here](https://www.elie.net/talk/kartograph) for the main presentation page, and [click here](https://www.elie.net/static/files/openconflict-preventing-real-time-map-hacks-in-online-games/openconflict-preventing-real-time-map-hacks-in-online-games-slides.pdf) for an extended version of this slide deck.
+[KeyIdentity's Pwn Adventure 3 Blog Series](https://blog.keyidentity.com/tag/pwnadventure/?order=asc) | A series of blog posts detailing various approaches to hacking [Pwn Adventure 3](http://pwnadventure.com/). **NOTE: This series has been taken down! The 9 posts are still cached in Google for the time being, so [check them out while you can](https://www.google.com/search?num=100&newwindow=1&biw=2560&bih=1261&q=site%3Akeyidentity.com+intitle%3APwnAdventure3+%7C+intitle%3A%22Pwn+Adventure+3%22&oq=site%3Akeyidentity.com+intitle%3APwnAdventure3+%7C+intitle%3A%22Pwn+Adventure+3%22&gs_l=psy-ab.12...11878.31482.0.32449.71.58.5.0.0.0.171.3575.46j8.54.0....0...1.1.64.psy-ab..21.0.0.PpMr58rLUlg).**
 
 ### Videos
 
