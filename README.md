@@ -7,6 +7,7 @@ From dissecting game clients to cracking network packet encryption, this is a go
 
 Title/Link | Description
 ---- | ----
+[Hack the Vote 2016 CTF "The Wall" Solution](https://zerosum0x0.blogspot.com/2016/11/hack-vote-wall-solution.html) | A write-up for a 2016 CTF challenge involving the multiplayer, open source Minecraft clone, Minetest.
 [How to Hack an MMO](https://www.raphkoster.com/2008/04/17/how-to-hack-an-mmo/) | An article from 2014 providing general insight into hacking an online game.
 [Reverse Engineering Online Games - Dragomon Hunter](http://0xbaadf00dsec.blogspot.com/2016/01/reverse-engineering-online-games.html) | An in-depth tutorial showing how to reverse engineer online games via the game *Dragomon Hunter*.
 [Hacking/Exploiting/Cheating in Online Games (PDF)](https://zdresearch.com/wp-content/uploads/2013/04/Exploiting-Online-Games.pdf) | A presentation from 2013 that delves deeply into hacking online games, from defining terminology to providing code examples of specific hacks.
