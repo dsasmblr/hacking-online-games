@@ -32,6 +32,7 @@ Title/Link | Description
 [DEFCON 18: Kartograph - Applying Reverse Engineering Techniques to Map Hacking](https://www.youtube.com/watch?v=WDNY4DMx8Jc) | Using games like Civilization IV, Age of Empires III, and Anno as targets, this talk teaches memory forensic techniques you can use to hack online games. Be sure to watch the accompanying [Kartograph demo video](https://www.youtube.com/watch?v=mFprkIAeKgM).
 [DEFCON 19: Hacking MMORPGs for Fun and Mostly Profit](https://www.youtube.com/watch?v=hABj_mrP-no) | This talk presents a pragmatic view of both threats and defenses in relation to hacking online games.
 [DEFCON 20: Fuzzing Online Games](https://www.youtube.com/watch?v=r0UQ6bpKOX0) | This talk discusses interesting techniques you can consider using to fuzz online games.
+[Black Hat Europe 2014 - Next Level Cheating and Leveling Up Mitigations](https://www.youtube.com/watch?v=bsYxcpz3w8A) | This presentation outlines two practical attacks against one of the most popular anti-cheat engines and demonstrates the implications of a successful attack against anti-cheat software.
 
 ### Books
 
