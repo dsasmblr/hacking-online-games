@@ -24,7 +24,7 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
-[DEF CON 25 - Twenty Years of MMORPG Hacking: Better Graphics, Same Exploits](https://www.youtube.com/watch?v=PfbMZJsb1cQ) | This presentation, presented by Manfred, technically analyzes some of the virtual economy-devastating, low-hanging-fruit exploits that are common in nearly every MMORPG released to date.
+[DEF CON 25 - Twenty Years of MMORPG Hacking: Better Graphics, Same Exploits](http://www60.zippyshare.com/v/DkUlT5Bw/file.html) | This presentation, presented by Manfred, technically analyzes some of the virtual economy-devastating, low-hanging-fruit exploits that are common in nearly every MMORPG released to date.
 [How to Hack Local Values in Browser-Based Games with Cheat Engine](https://www.youtube.com/watch?v=f_axmYpG1Lk) | This video teaches you how to find and change local values (which might appear as server-based values) in browser-based games.
 [Reverse-Engineering a Proprietary Game Server with Erlang](https://www.youtube.com/watch?v=DumXgoFrMdU) | This talk details advantages Erlang has over other languages for reverse engineering protocols and analyzing client files. A live demo showcasing some of these tools and techniques is also given.
 [DEF CON 17: Fragging Game Servers](https://www.youtube.com/watch?v=SooVvF9qO_k) | From hardware interaction to network protocols, this talk presents the inner workings of the Source Dedicated Server (used for games like *Left 4 Dead* and *Team Fortress 2*). Also discussed are some of the weaknesses in these game engines, as well as ways they're exploited in the wild.
