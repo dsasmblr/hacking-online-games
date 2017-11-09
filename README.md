@@ -34,6 +34,7 @@ Title/Link | Description
 [DEF CON 19: Hacking MMORPGs for Fun and Mostly Profit](https://www.youtube.com/watch?v=hABj_mrP-no) | This talk presents a pragmatic view of both threats and defenses in relation to hacking online games.
 [DEF CON 20: Fuzzing Online Games](https://www.youtube.com/watch?v=r0UQ6bpKOX0) | This talk discusses interesting techniques you can consider using to fuzz online games.
 [Black Hat Europe 2014 - Next Level Cheating and Leveling Up Mitigations](https://www.youtube.com/watch?v=bsYxcpz3w8A) | This presentation outlines two practical attacks against one of the most popular anti-cheat engines and demonstrates the implications of a successful attack against anti-cheat software.
+[Cyber Necromancy - Reverse Engineering Dead Protocols](https://media.ccc.de/v/31c3_-_5956_-_en_-_saal_2_-_201412281400_-_cyber_necromancy_-_joseph_tartaro_-_matthew_halchyshak) | This presentation talks about bringing a multiplayer game whose servers have shut down, back to life. The game is Metal Gear Online on the PS2 and PS3.
 
 ### Books
 
