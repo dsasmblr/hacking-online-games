@@ -22,6 +22,7 @@ Title/Link | Description
 [Kartograph (Game Hacking Tool)](https://www.elie.net/static/files/kartograph/kartograph-slides.pdf) | This is the slide deck used for the DEFCON 18 talk linked in the videos section below. [Click here](https://www.elie.net/talk/kartograph) for the main presentation page, and [click here](https://www.elie.net/static/files/openconflict-preventing-real-time-map-hacks-in-online-games/openconflict-preventing-real-time-map-hacks-in-online-games-slides.pdf) for an extended version of this slide deck [[Back-up Link](http://crypto.stanford.edu/~dabo/pubs/papers/onlinegames.pdf)].
 [Adding Multiplayer Functionality to Torchlight (A Single-Player, Closed-Source Game)](https://github.com/dsasmblr/hacking-online-games/blob/master/resources/Extending_a_Closed_-_Source_Game_with_Multiplayer.pdf) | Torchlight is chosen as a real-world target application for adding multiplayer functionality to the otherwise single-player, closed-source game.
 [Exploiting Game Engines for Fun and Profit](http://revuln.com/files/Ferrante_Auriemma_Exploiting_Game_Engines.pdf) | This slide deck shows you methods to exploit game engines, effictively discovering attack vectors that will work across multiple games using the same engine.
+[How to Hack an MMO](https://www.raphkoster.com/2008/04/17/how-to-hack-an-mmo/) | This is an old article, but a good cursory overview of some of what's involved in attacking an MMO game client.
 
 ### Videos
 
