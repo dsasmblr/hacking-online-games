@@ -44,6 +44,13 @@ Title/Link | Description
 [Cyber Necromancy - Reverse Engineering Dead Protocols](https://media.ccc.de/v/31c3_-_5956_-_en_-_saal_2_-_201412281400_-_cyber_necromancy_-_joseph_tartaro_-_matthew_halchyshak) | This presentation talks about bringing a multiplayer game whose servers have shut down, back to life. The game is Metal Gear Online on the PS2 and PS3.
 [32C3 - How Hackers Grind an MMORPG: By Taking it Apart!](https://www.youtube.com/watch?v=9pCb0vIp_kg) | In this presentation, Runes of Magic, a long-dead MMORPG, is used to demonstrate how to reverse engineer network protocols.
 
+### Podcasts/Audio
+
+Title/Link | Description
+---- | ----
+[Darknet Diaries Ep. 7: Manfred Part 1: Hacking Online Video Games for Fun](https://darknetdiaries.com/episode/7/) | "Manfred" has privately been hacking online games for the past 20 years. In this episode, he tells stories of some of the unbelievable ways he's hacked games--all in the name of fun.
+[Darknet Diaries Ep. 8: Manfred Part 2: Hacking Online Video Games for Profit](https://darknetdiaries.com/episode/8/) | "Manfred" found a way to turn his passion for video games and reverse engineering into a full time business. He exploited video games and sold virtual goods and currency for real money. This was his full time job. In this episode, he explains exactly how he did this.
+
 ### Books
 
 Title/Link | Description
