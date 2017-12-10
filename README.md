@@ -3,6 +3,13 @@
 
 From dissecting game clients to cracking network packet encryption, this is a go-to reference for those interested in the topic of hacking online games. I'll be updating this list whenever I run across excellent resources, so be sure to Watch/Star it! If you know of an excellent resource that isn't yet on the list, feel free to submit it for consideration via creating an issue or pull request for this repository, or [email it to me](mailto:dsasmblr@gmail.com).
 
+### General Information
+
+Title/Link | Description
+---- | ----
+[EFF FAQ on Reverse Engineering Legalities](https://www.eff.org/issues/coders/reverse-engineering-faq) | This FAQ details information that may help reverse engineers reduce their legal risk. *Use this information as a guide, not actual legal advice.
+[Cheating in Online Games: Overview of Approaches and Consequences](https://en.wikipedia.org/wiki/Cheating_in_online_games) | This Wikipedia page offers a good 10,000-foot view of the landscape of hacking online games.
+
 ### Blog Posts, Articles, and Presentations
 
 Title/Link | Description
