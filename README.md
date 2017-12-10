@@ -7,7 +7,7 @@ From dissecting game clients to cracking network packet encryption, this is a go
 
 Title/Link | Description
 ---- | ----
-[EFF FAQ on Reverse Engineering Legalities](https://www.eff.org/issues/coders/reverse-engineering-faq) | This FAQ details information that may help reverse engineers reduce their legal risk. *Use this information as a guide, not actual legal advice.
+[EFF FAQ on Reverse Engineering Legalities](https://www.eff.org/issues/coders/reverse-engineering-faq) | This FAQ details information that may help reverse engineers reduce their legal risk. *Use this information as a guide, not actual legal advice.*
 [Cheating in Online Games: Overview of Approaches and Consequences](https://en.wikipedia.org/wiki/Cheating_in_online_games) | This Wikipedia page offers a good 10,000-foot view of the landscape of hacking online games.
 
 ### Blog Posts, Articles, and Presentations
