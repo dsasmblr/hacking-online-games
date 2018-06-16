@@ -31,6 +31,7 @@ Title/Link | Description
 [Exploiting Game Engines for Fun and Profit](http://revuln.com/files/Ferrante_Auriemma_Exploiting_Game_Engines.pdf) | This slide deck shows you methods to exploit game engines, effictively discovering attack vectors that will work across multiple games using the same engine.
 [How to Hack an MMO](https://www.raphkoster.com/2008/04/17/how-to-hack-an-mmo/) | This is an old article, but a good cursory overview of some of what's involved in attacking an MMO game client.
 [Introduction to Server Side Emulation](https://github.com/dsasmblr/hacking-online-games/blob/master/resources/Introduction%20to%20Server%20Side%20Emulation.pdf) | An old but still relevant document for those interested in building their own emulated server (useful for things like reintroducing multiplayer functionality into a dead game).
+[Reversing Path of Exile's Protocol](https://www.reddit.com/r/REGames/comments/8j8fc2/reversing_path_of_exiles_protocol/) | A three-part series of blog posts detailing one individual's approach to reverse engineering Path of Exile's network protocol).
 
 ### Videos
 
