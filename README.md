@@ -53,6 +53,7 @@ Title/Link | Description
 [Cyber Necromancy - Reverse Engineering Dead Protocols](https://media.ccc.de/v/31c3_-_5956_-_en_-_saal_2_-_201412281400_-_cyber_necromancy_-_joseph_tartaro_-_matthew_halchyshak) | This presentation talks about bringing a multiplayer game whose servers have shut down, back to life. The game is Metal Gear Online on the PS2 and PS3.
 [32C3 - How Hackers Grind an MMORPG: By Taking it Apart!](https://www.youtube.com/watch?v=9pCb0vIp_kg) | In this presentation, Runes of Magic, a long-dead MMORPG, is used to demonstrate how to reverse engineer network protocols.
 [ARMA 3 - Reverse Engineering on IDA Pro & Reclass 2015](https://www.youtube.com/watch?v=dIBdJUaOuWE) | A 45-minute tutorial demonstrating how to hack ARMA 3 using IDA Pro and ReClass.
+[Let's Play/Hack - Pwn Adventure 3: Pwnie Island](https://www.youtube.com/watch?v=RDZnlcnmPUA&list=PLhixgUqwRTjzzBeFSHXrw9DnQtssdAwgG) | A video series of 21 parts on hacking the intentionally vulnerable MMORPG [Pwn Adventure 3](http://www.pwnadventure.com/).
 
 ### Podcasts/Audio
 
