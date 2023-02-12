@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://guidedhacking.com/?utm_source=dsasmblr">
+    <img src="https://raw.githubusercontent.com/dsasmblr/hacking-online-games/master/resources/gh_banner.gif" />
+  </a>
+</p>
+
 # [The Ultimate Online Game Hacking Resource](https://github.com/dsasmblr/hacking-online-games/)
 **A curated list of tutorials/resources for hacking online games!**
 
