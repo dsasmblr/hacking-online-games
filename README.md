@@ -1,8 +1,10 @@
-<p align="center">
+<div align="center">
   <a href="https://guidedhacking.com/?utm_source=dsasmblr">
-    <img src="https://raw.githubusercontent.com/dsasmblr/hacking-online-games/master/resources/gh_banner.gif" />
+    <img src="https://raw.githubusercontent.com/dsasmblr/hacking-online-games/master/resources/guidedhacking-hero.png" />
   </a>
-</p>
+  <br>
+  <span align="center"><a href="https://guidedhacking.com/?utm_source=dsasmblr">This repo is sponsored by GuidedHacking.com!</a></span>
+</div>
 
 # [The Ultimate Online Game Hacking Resource](https://github.com/dsasmblr/hacking-online-games/)
 **A curated list of tutorials/resources for hacking online games!**
