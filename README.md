@@ -22,6 +22,7 @@ Title/Link | Description
 
 Title/Link | Description
 ---- | ----
+[MMO-Hacking / Packet-Editor Guide](https://guidedhacking.com/threads/15173/) | Teaches how to create a packet editor and how to use it to discover bugs (many resources linked).
 [Hack.lu 2017: (Workshop) Reverse Engineering a MMORPG](https://www.slideshare.net/AntoninBeaujeant/reverse-engineering-a-mmorpg) | This workshop covers the basics of reverse engineering a (M)MORPG. The target is [Pwn Adventure 3](http://www.pwnadventure.com/), an intentionally-vulnerable MMORPG developed by [Vector35](https://vector35.com/).
 [Hack the Vote 2016 CTF "The Wall" Solution](https://zerosum0x0.blogspot.com/2016/11/hack-vote-wall-solution.html) | A write-up for a 2016 CTF challenge involving the multiplayer, open source Minecraft clone, Minetest.
 [Reverse Engineering Online Games - Dragomon Hunter](http://0xbaadf00dsec.blogspot.com/2016/01/reverse-engineering-online-games.html) | An in-depth tutorial showing how to reverse engineer online games via the game *Dragomon Hunter*.
